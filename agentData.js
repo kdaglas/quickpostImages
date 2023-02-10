@@ -188,7 +188,7 @@
           "transactionID": "006757"
         }
       ],
-        "loan_history": [
+      "loan_history": [
                 {
                     "id": 1,
                     "amount": "1,280,000",
@@ -208,15 +208,15 @@
                 {
                     "id": 3,
                     "amount": "250,000",
-                    "balance": "550,000",
+                    "balance": "50,000",
                     "deadline": "Loan deadline...",
                     "date": "13 Feb 2022, 11:37 pm",
-                    "status": "paid"
+                    "status": "pending"
                 },
                 {
                     "id": 4,
                     "amount": "250,000",
-                    "balance": "550,000",
+                    "balance": "0",
                     "deadline": "Loan deadline...",
                     "date": "13 Feb 2022, 11:37 pm",
                     "status": "deduct"
@@ -224,7 +224,7 @@
                 {
                     "id": 5,
                     "amount": "250,000",
-                    "balance": "550,000",
+                    "balance": "0",
                     "deadline": "Loan deadline...",
                     "date": "13 Feb 2022, 11:37 pm",
                     "status": "paid"
@@ -232,7 +232,7 @@
                 {
                     "id": 6,
                     "amount": "250,000",
-                    "balance": "550,000",
+                    "balance": "0",
                     "deadline": "Loan deadline...",
                     "date": "13 Feb 2022, 11:37 pm",
                     "status": "paid"
@@ -240,7 +240,7 @@
                 {
                     "id": 7,
                     "amount": "250,000",
-                    "balance": "550,000",
+                    "balance": "0",
                     "deadline": "Loan deadline...",
                     "date": "13 Feb 2022, 11:37 pm",
                     "status": "paid"
@@ -248,7 +248,7 @@
                 {
                     "id": 8,
                     "amount": "250,000",
-                    "balance": "550,000",
+                    "balance": "0",
                     "deadline": "Loan deadline...",
                     "date": "13 Feb 2022, 11:37 pm",
                     "status": "paid"
@@ -256,7 +256,7 @@
                 {
                     "id": 9,
                     "amount": "250,000",
-                    "balance": "550,000",
+                    "balance": "0",
                     "deadline": "Loan deadline...",
                     "date": "13 Feb 2022, 11:37 pm",
                     "status": "paid"
@@ -264,7 +264,7 @@
                 {
                     "id": 10,
                     "amount": "250,000",
-                    "balance": "550,000",
+                    "balance": "0",
                     "deadline": "Loan deadline...",
                     "date": "13 Feb 2022, 11:37 pm",
                     "status": "paid"
