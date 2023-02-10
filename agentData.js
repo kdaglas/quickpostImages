@@ -188,6 +188,88 @@
           "transactionID": "006757"
         }
       ],
+        "loan_history": [
+                {
+                    "id": 1,
+                    "amount": "1,280,000",
+                    "balance": "570,000",
+                    "deadline": "Loan deadline...",
+                    "date": "13 Feb 2022, 11:37 pm",
+                    "status": "pending"
+                },
+                {
+                    "id": 2,
+                    "amount": "50,000",
+                    "balance": "150,000",
+                    "deadline": "Loan deadline...",
+                    "date": "12 Mar 2022, 11:37 pm",
+                    "status": "pending"
+                },
+                {
+                    "id": 3,
+                    "amount": "250,000",
+                    "balance": "550,000",
+                    "deadline": "Loan deadline...",
+                    "date": "13 Feb 2022, 11:37 pm",
+                    "status": "paid"
+                },
+                {
+                    "id": 4,
+                    "amount": "250,000",
+                    "balance": "550,000",
+                    "deadline": "Loan deadline...",
+                    "date": "13 Feb 2022, 11:37 pm",
+                    "status": "deduct"
+                },
+                {
+                    "id": 5,
+                    "amount": "250,000",
+                    "balance": "550,000",
+                    "deadline": "Loan deadline...",
+                    "date": "13 Feb 2022, 11:37 pm",
+                    "status": "paid"
+                },
+                {
+                    "id": 6,
+                    "amount": "250,000",
+                    "balance": "550,000",
+                    "deadline": "Loan deadline...",
+                    "date": "13 Feb 2022, 11:37 pm",
+                    "status": "paid"
+                },
+                {
+                    "id": 7,
+                    "amount": "250,000",
+                    "balance": "550,000",
+                    "deadline": "Loan deadline...",
+                    "date": "13 Feb 2022, 11:37 pm",
+                    "status": "paid"
+                }
+                {
+                    "id": 8,
+                    "amount": "250,000",
+                    "balance": "550,000",
+                    "deadline": "Loan deadline...",
+                    "date": "13 Feb 2022, 11:37 pm",
+                    "status": "paid"
+                },
+                {
+                    "id": 9,
+                    "amount": "250,000",
+                    "balance": "550,000",
+                    "deadline": "Loan deadline...",
+                    "date": "13 Feb 2022, 11:37 pm",
+                    "status": "paid"
+                },
+                {
+                    "id": 10,
+                    "amount": "250,000",
+                    "balance": "550,000",
+                    "deadline": "Loan deadline...",
+                    "date": "13 Feb 2022, 11:37 pm",
+                    "status": "paid"
+                }
+            ],
       "location": {
         "address1": "254 S 2nd St",
         "address2": "",
