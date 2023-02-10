@@ -272,7 +272,7 @@
                     "duration": "6 (weeks) - 15%",
                     "agent": "Denis Karuga",
                     "status": "paid"
-                }
+                },
                 {
                     "id": 8,
                     "amount": "250,000",
