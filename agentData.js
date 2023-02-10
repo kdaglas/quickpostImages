@@ -194,7 +194,11 @@
                     "amount": "1,280,000",
                     "balance": "570,000",
                     "deadline": "Loan deadline...",
-                    "date": "13 Feb 2022, 11:37 pm",
+                    "loan_date": "13 Feb 2022, 11:37 pm",
+                    "deadline_date": "12 Mar 2023, 11:37 pm",
+                    "package": "BLN. Package 3",
+                    "duration": "6 (weeks) - 15%",
+                    "agent": "Denis Karuga",
                     "status": "pending"
                 },
                 {
@@ -202,7 +206,11 @@
                     "amount": "50,000",
                     "balance": "150,000",
                     "deadline": "Loan deadline...",
-                    "date": "12 Mar 2022, 11:37 pm",
+                    "loan_date": "12 Mar 2022, 11:37 pm",
+                    "deadline_date": "12 Mar 2023, 11:37 pm",
+                    "package": "BLN. Package 3",
+                    "duration": "6 (weeks) - 15%",
+                    "agent": "Denis Karuga",
                     "status": "pending"
                 },
                 {
@@ -210,7 +218,11 @@
                     "amount": "250,000",
                     "balance": "50,000",
                     "deadline": "Loan deadline...",
-                    "date": "13 Feb 2022, 11:37 pm",
+                    "loan_date": "13 Feb 2022, 11:37 pm",
+                    "deadline_date": "12 Mar 2023, 11:37 pm",
+                    "package": "BLN. Package 3",
+                    "duration": "6 (weeks) - 15%",
+                    "agent": "Denis Karuga",
                     "status": "pending"
                 },
                 {
@@ -218,7 +230,11 @@
                     "amount": "250,000",
                     "balance": "0",
                     "deadline": "Loan deadline...",
-                    "date": "13 Feb 2022, 11:37 pm",
+                    "loan_date": "13 Feb 2022, 11:37 pm",
+                    "deadline_date": "12 Mar 2023, 11:37 pm",
+                    "package": "BLN. Package 3",
+                    "duration": "6 (weeks) - 15%",
+                    "agent": "Denis Karuga",
                     "status": "deduct"
                 },
                 {
@@ -226,7 +242,11 @@
                     "amount": "250,000",
                     "balance": "0",
                     "deadline": "Loan deadline...",
-                    "date": "13 Feb 2022, 11:37 pm",
+                    "loan_date": "13 Feb 2022, 11:37 pm",
+                    "deadline_date": "12 Mar 2023, 11:37 pm",
+                    "package": "BLN. Package 3",
+                    "duration": "6 (weeks) - 15%",
+                    "agent": "Denis Karuga",
                     "status": "paid"
                 },
                 {
@@ -234,7 +254,11 @@
                     "amount": "250,000",
                     "balance": "0",
                     "deadline": "Loan deadline...",
-                    "date": "13 Feb 2022, 11:37 pm",
+                    "loan_date": "13 Feb 2022, 11:37 pm",
+                    "deadline_date": "12 Mar 2023, 11:37 pm",
+                    "package": "BLN. Package 3",
+                    "duration": "6 (weeks) - 15%",
+                    "agent": "Denis Karuga",
                     "status": "paid"
                 },
                 {
@@ -242,7 +266,11 @@
                     "amount": "250,000",
                     "balance": "0",
                     "deadline": "Loan deadline...",
-                    "date": "13 Feb 2022, 11:37 pm",
+                    "loan_date": "13 Feb 2022, 11:37 pm",
+                    "deadline_date": "12 Mar 2023, 11:37 pm",
+                    "package": "BLN. Package 3",
+                    "duration": "6 (weeks) - 15%",
+                    "agent": "Denis Karuga",
                     "status": "paid"
                 }
                 {
@@ -250,7 +278,11 @@
                     "amount": "250,000",
                     "balance": "0",
                     "deadline": "Loan deadline...",
-                    "date": "13 Feb 2022, 11:37 pm",
+                    "loan_date": "13 Feb 2022, 11:37 pm",
+                    "deadline_date": "12 Mar 2023, 11:37 pm",
+                    "package": "BLN. Package 3",
+                    "duration": "6 (weeks) - 15%",
+                    "agent": "Denis Karuga",
                     "status": "paid"
                 },
                 {
@@ -258,7 +290,11 @@
                     "amount": "250,000",
                     "balance": "0",
                     "deadline": "Loan deadline...",
-                    "date": "13 Feb 2022, 11:37 pm",
+                    "loan_date": "13 Feb 2022, 11:37 pm",
+                    "deadline_date": "12 Mar 2023, 11:37 pm",
+                    "package": "BLN. Package 3",
+                    "duration": "6 (weeks) - 15%",
+                    "agent": "Denis Karuga",
                     "status": "paid"
                 },
                 {
@@ -266,7 +302,11 @@
                     "amount": "250,000",
                     "balance": "0",
                     "deadline": "Loan deadline...",
-                    "date": "13 Feb 2022, 11:37 pm",
+                    "loan_date": "13 Feb 2022, 11:37 pm",
+                    "deadline_date": "12 Mar 2023, 11:37 pm",
+                    "package": "BLN. Package 3",
+                    "duration": "6 (weeks) - 15%",
+                    "agent": "Denis Karuga",
                     "status": "paid"
                 }
             ],
