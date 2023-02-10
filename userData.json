@@ -188,6 +188,64 @@
                     "transactionID": "006757"
                 }
             ],
+            "wallet_transactions": [
+                {
+                    "id": 1,
+                    "amount": "250,000",
+                    "balance": "550,000",
+                    "reason": "Loan repayment for...",
+                    "date": "13 Feb 2022, 11:37 pm",
+                    "status": "deduct"
+                },
+                {
+                    "id": 2,
+                    "amount": "50,000",
+                    "balance": "150,000",
+                    "reason": "Loan repayment for...",
+                    "date": "12 Mar 2022, 11:37 pm",
+                    "status": "add"
+                },
+                {
+                    "id": 3,
+                    "amount": "250,000",
+                    "balance": "550,000",
+                    "reason": "Loan repayment for...",
+                    "date": "13 Feb 2022, 11:37 pm",
+                    "status": "add"
+                },
+                {
+                    "id": 4,
+                    "amount": "250,000",
+                    "balance": "550,000",
+                    "reason": "Loan repayment for...",
+                    "date": "13 Feb 2022, 11:37 pm",
+                    "status": "deduct"
+                },
+                {
+                    "id": 5,
+                    "amount": "250,000",
+                    "balance": "550,000",
+                    "reason": "Loan repayment for...",
+                    "date": "13 Feb 2022, 11:37 pm",
+                    "status": "deduct"
+                },
+                {
+                    "id": 6,
+                    "amount": "250,000",
+                    "balance": "550,000",
+                    "reason": "Loan repayment for...",
+                    "date": "13 Feb 2022, 11:37 pm",
+                    "status": "deduct"
+                },
+                {
+                    "id": 7,
+                    "amount": "250,000",
+                    "balance": "550,000",
+                    "reason": "Loan repayment for...",
+                    "date": "13 Feb 2022, 11:37 pm",
+                    "status": "add"
+                }
+            ],
             "location": {
                 "address1": "254 S 2nd St",
                 "address2": "",
