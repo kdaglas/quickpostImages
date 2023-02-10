@@ -14,6 +14,7 @@
             "display_phone": "(256) 707-757575",
             "gender": "Male",
             "date_of_birth": "26 Sep 2022",
+            "registration_date": "27 Sep 2019",
             "profile_image_url": "https://raw.githubusercontent.com/kdaglas/quickpostImages/main/tinywow_profile_pic.png",
             "is_agent": true,
             "is_first_access": false,
@@ -25,6 +26,8 @@
             "next_of_kin_tile": "Mr.",
             "agent_first_name": "Brain",
             "agent_second_name": "Katusime",
+            "recommender_first_name": "Brain",
+            "recommender_second_name": "Katusime",
             "rating": 4.5,
             "loan_details": {
                 "loan_balance": "0",
